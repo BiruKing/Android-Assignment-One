@@ -1,6 +1,6 @@
 # Android-Assignment-One
-Assignment 1
-                         Biruk Kindu 1154
+Assignment 1 <br/><br/>
+                         Biruk Kindu 1154 <br/>
                          Abubeker Ahmed 1103 <br/><br/>
 1.A<br/>
 2.D<br/>
